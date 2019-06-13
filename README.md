@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# School Grades Analysis
 
 Data set consists of about 40,000 High students and their grades in Math and Reading from 15 schools in a district.
 
